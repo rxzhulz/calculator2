@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText=" halo teman temannn";
+    document.getElementById("output-value").innerText="hitung sendiri kocak";
   }
