@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="ga bisa ngitung?";
+    document.getElementById("output-value").innerText="mas ahmad ganteng";
   }
